@@ -7,8 +7,8 @@ const MainNavigation = () => {
     <header className={classes.header}>
       <div className={classes.mwidth}>
         <div className={classes.logo}>
-          <div>Kata Katain</div>
-          <div className={classes.author}>by jafarzar</div>
+          <div>Quote dong!</div>
+          <div className={classes.author}>by Bima Ryan A</div>
         </div>
         <nav className={classes.nav}>
           <ul>
