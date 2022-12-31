@@ -1,6 +1,6 @@
 .quote {
-  background-color: #162b2b;
-  color: white;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
   border-radius: 6px;
   padding: 3rem;
   margin: 3rem auto;
@@ -10,13 +10,14 @@
 
 .quote p {
   font-size: 2.5rem;
+  font-family: 'Tangerine', serif;
 }
 
 .quote figcaption {
   font-style: italic;
   font-size: 1.5rem;
   text-align: right;
-  color: #d7897d;
+  color: #ffb23f;
 }
 
 @media only screen and (max-width: 768px) {
