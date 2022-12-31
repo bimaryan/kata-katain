@@ -30,6 +30,16 @@ export const badwords = [
   "bokep",
   "bangsat",
   "puki",
+  "Kntl",
+  "mmk",
+  "ajg",
+  "bngst",
+  "k0nt0l",
+  "0y3sss",
+  "4syuu",
+  "m3m3k",
+  "1til",
+  "b4bi",
 ];
 
 export const removeWords = [
